@@ -1,3 +1,3 @@
-# Git Notes Template
+# Technology notes
 
-Use this template to create a git-notes repository.
+Notes about computers, applications, and internet services
