@@ -14,3 +14,5 @@ https://github.com/joelparkerhenderson/github-special-files-and-paths
 
 ## GitHub actions
 https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions
+
+Actions can commit back to the repo they're run on. Here's a snippet showing how. [Commit the result of a Github Actions job to its repository · GitHub](https://gist.github.com/anshumanb/16bf5e89354485f37912888d04d1be42)
