@@ -1,0 +1,4 @@
+# Zsh
+
+## Configuration
+~/.zshrc
