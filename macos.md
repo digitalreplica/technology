@@ -1,8 +1,12 @@
 # Mac OS
 
-## Emoji keyboard
+## Keyboard tricks
+Emoji keyboard
 * Edit > Emoji & Symbols
 * <ctrl><command><space>
+
+Accented letters
+* Hold the key down for the letter, and a popup will appear with accents for that letter.
 
 ## Open disk image
 ```
@@ -100,3 +104,13 @@ How to Make Your Mac as Secure as Possible
 ## Using Launchd to run a script every 5 mins on a Mac | Splinter Software
 Apple - Scheduling Timed Jobs
 Apple - Creating Launch Daemons and Agents
+
+# Mac OS Disk Images
+## Sparse image
+* thin-provisioned disk image, saved as one file
+* Best for Dropbox, since they only upload changed blocks
+
+## Sparse Bundle Image
+* thin-provisioned disk image, saved as 8MB bands
+* Best for iCloud, since it uploads entire changed files
+* Do NOT use on dropbox. If opened on two computers, Dropbox conflict detection will create a copy of a band, and Mac OS will show the entire image as corrupted.
