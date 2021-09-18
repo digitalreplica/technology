@@ -27,7 +27,12 @@ By default, the submodule is a directory with the repo name. That can be changed
 git submodule add <url> <local-dirname>
 ```
 
-Updating all submodules
+Updating submodules, including empty ones
+```
+git submodule update --init
+```
+
+Updating all submodules. Does a `git fetch` and `git merge` on all submodules
 ```
 git submodule update --remote
 ```

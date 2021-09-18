@@ -8,7 +8,3 @@ script
 
 Temporarily disabling bash history
 unset HISTFILE
-
-Date, with formatted YearMonthDay
-date +"%Y%m%d"
-date +%Y%m%d%H%M%S
