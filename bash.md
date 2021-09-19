@@ -10,3 +10,20 @@ echo $?
 date +"%Y%m%d"
 date +%Y%m%d%H%M%S
 ```
+
+## Functions
+How to create a bash function
+* [Functions - Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/bash-functions.php)
+
+## Multiline comments
+Bash doesn't support multiline comments, but here's a hack that works.
+```
+<<'###BLOCK-COMMENT'
+line 1
+line 2
+###BLOCK-COMMENT
+```
+
+## Dictionary variables
+Bash does have primitive dictionary (key/value) variables in v4.0 or higher.
+* [dictionaries in bash | bitarray - A guide for SRE, DevOps and Webmasters](https://www.bitarray.io/dictionaries-in-bash/)

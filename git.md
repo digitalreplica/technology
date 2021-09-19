@@ -33,8 +33,9 @@ git submodule update --init
 ```
 
 Updating all submodules. Does a `git fetch` and `git merge` on all submodules
+* note: don't use `git submodule update --remote`, as it assumes a `master` branch by default
 ```
-git submodule update --remote
+git submodule foreach 'git pull'
 ```
 
 [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
