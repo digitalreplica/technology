@@ -46,3 +46,7 @@ Explorer
 
 Making queries
 * [Using Github’s GraphQL to retrieve a list of repositories, their commits and some other stuff — part 1 | by Fábio Molinar | Medium](https://medium.com/@fabiomolinar/using-githubs-graphql-to-retrieve-a-list-of-repositories-their-commits-and-some-other-stuff-ccbbb4e96d78)
+
+# GitHub Organizations
+Organization profile
+* [Customizing your organization’s profile - GitHub Docs](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
