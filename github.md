@@ -50,3 +50,8 @@ Making queries
 # GitHub Organizations
 Organization profile
 * [Customizing your organization’s profile - GitHub Docs](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
+
+# GitHub Markdown
+## Table of Contents
+Github automatically generates a table of contents if there are 2 or more headings. Access in tiny dropdown beside filename. 
+* [Table of Contents support in Markdown files | GitHub Changelog](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/)
