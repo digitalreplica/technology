@@ -1,5 +1,8 @@
 # Git
 
+## Common CLI command
+* List branches: ```git branch -a```
+
 ## Using a Template Repo
 In Web UI, go into the repo, click "Use this Template" button
 
