@@ -30,3 +30,8 @@ Then create a function inside the class to retrieve the data
     return my_list;
   }
 ```
+
+# Angular Material
+UI components for Angular.
+* [Angular Material UI component library](https://material.angular.io/)
+* [Material Icons](https://fonts.google.com/icons?selected=Material+Icons)
