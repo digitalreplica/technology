@@ -28,6 +28,9 @@ A CI/CD pipeline for GitHub. Action are stored in the repo as `.github/workflows
 * [GitHub Marketplace · Actions to improve your workflow · GitHub](https://github.com/marketplace?type=actions)
 * [GitHub - actions/starter-workflows: Accelerating new GitHub Actions workflows](https://github.com/actions/starter-workflows)
 
+## Node.js actions
+* https://github.com/actions/toolkit
+
 ## Python actions
 * https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions
 
