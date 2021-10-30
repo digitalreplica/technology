@@ -35,3 +35,8 @@ Then create a function inside the class to retrieve the data
 UI components for Angular.
 * [Angular Material UI component library](https://material.angular.io/)
 * [Material Icons](https://fonts.google.com/icons?selected=Material+Icons)
+
+# Hosting Angular app on GitHub Pages
+* https://www.npmjs.com/package/angular-cli-ghpages
+* [GitHub - angular-schule/angular-cli-ghpages: 🚀 Deploy your 🅰️Angular app to GitHub pages directly from the Angular CLI! Available on NPM.](https://github.com/angular-schule/angular-cli-ghpages/#readme)
+* https://medium.com/rupesh-tiwari/how-to-deploy-angular-apps-to-github-pages-gh-pages-setup-ci-cd-for-angular-app-with-github-714c1e555de5
