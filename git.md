@@ -19,6 +19,16 @@ git log --oneline -- <filename>
 
 https://docs.github.com/en/enterprise-server@3.1/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-template-repository
 
+## Tagging
+Checking: ```git log --oneline```
+
+Create tag (locally): ```git tag -a <tag_name> -m "<Message_for_commit>" <commit_hash_code>```
+
+Update tag (locally): ```git tag -f <tag_name_to_update> <hash_code_new_commit>```
+* <hash_code_new_commit> default is HEAD if left blank
+
+Push tags: ```git push --tags```
+
 ## Git submodules
 Links two repos together
 ```
