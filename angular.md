@@ -40,3 +40,4 @@ UI components for Angular.
 * https://www.npmjs.com/package/angular-cli-ghpages
 * [GitHub - angular-schule/angular-cli-ghpages: 🚀 Deploy your 🅰️Angular app to GitHub pages directly from the Angular CLI! Available on NPM.](https://github.com/angular-schule/angular-cli-ghpages/#readme)
 * https://medium.com/rupesh-tiwari/how-to-deploy-angular-apps-to-github-pages-gh-pages-setup-ci-cd-for-angular-app-with-github-714c1e555de5
+* [Deploy to Github Pages like a pro with Github Actions - DEV Community](https://dev.to/rolanddoda/deploy-to-github-pages-like-a-pro-with-github-actions-4hdg) more elemental install that doesn't require 3rd party library
