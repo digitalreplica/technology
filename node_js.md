@@ -20,3 +20,18 @@ Run simple app
 ```
 node index.js
 ```
+
+## Mac without sudo
+MacOS requires sudo for global installations. This can be avoided.
+* [Node and npm without sudo](https://johnpapa.net/node-and-npm-without-sudo/)
+
+# Managing multiple Node versions
+## NVM
+* https://github.com/nvm-sh/nvm
+
+Listing installed versions: ```nvm ls```
+
+Switching versions: ```nvm use 12.18.3```
+## N version manager
+N manages multiple version of Node.js
+* https://www.npmjs.com/package/n
