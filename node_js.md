@@ -29,7 +29,10 @@ MacOS requires sudo for global installations. This can be avoided.
 ## NVM
 * https://github.com/nvm-sh/nvm
 
-Listing installed versions: ```nvm ls```
+* Listing installed versions: ```nvm ls```
+* Listing all available versions: ```nvm ls-remote```
+* Install new version: ```nvm install v12.16.3```
+* Use new version: ```nvm use v12.16.3```
 
 Switching versions: ```nvm use 12.18.3```
 ## N version manager
