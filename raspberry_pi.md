@@ -28,6 +28,7 @@ http://www.richardmudhar.com/blog/2015/02/raspberry-pi-camera-and-motion-out-of-
 	* [homebridge-dht  -  npm](https://www.npmjs.com/package/homebridge-dht)
 * node-dht-sensor
 	* issue installing
+	* new thing
 ```
 *pi@raspberrypi*:*~/.homebridge $* sudo npm install -g node-dht-sensor
 
