@@ -51,6 +51,9 @@ run: (test -f ${{ env.REPO_LIST_PATH }} && echo "REPO_LIST_EXISTS=true" >> $GITH
 # GitHub CLI
 * [GitHub CLI | Take GitHub to the command line](https://cli.github.com/)
 
+Getting notes repos: ```gh repo list ${owner} --public --topic notes --json url --jq '.[]|.url'```
+Get note repos markdown urls: ```gh repo list digitalreplica --public --topic notes --json nameWithOwner,url,description --jq '.[]|"["+.nameWithOwner+"]("+.url+"): "+.description'```
+
 # GraphQL
 Explorer
 * [GitHub GraphQL Explorer](https://graphql.github.com/)
