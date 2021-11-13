@@ -40,6 +40,14 @@ Actions can commit back to the repo they're run on. For workflows that trigger o
 * [GitHub Actions: Skip pull request and push workflows with skip ci | GitHub Changelog](https://github.blog/changelog/2021-02-08-github-actions-skip-pull-request-and-push-workflows-with-skip-ci/)
 * [Commit the result of a Github Actions job to its repository · GitHub](https://gist.github.com/anshumanb/16bf5e89354485f37912888d04d1be42)
 
+## Disabling a step
+Add ```if: ${{ false }}``` to the step
+
+## Setting environment variable if file exists
+```
+run: (test -f ${{ env.REPO_LIST_PATH }} && echo "REPO_LIST_EXISTS=true" >> $GITHUB_ENV) || echo "REPO_LIST_EXISTS=false" >> $GITHUB_ENV
+```
+
 # GitHub CLI
 * [GitHub CLI | Take GitHub to the command line](https://cli.github.com/)
 
