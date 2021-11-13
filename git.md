@@ -14,6 +14,7 @@ git log --pretty=oneline -- <filename>
 ```
 git log --oneline -- <filename>
 ```
+
 ## Make template repo
 * Under Settings
 
@@ -29,7 +30,7 @@ Update tag (locally): ```git tag -f <tag_name_to_update> <hash_code_new_commit>`
 
 Push tags: ```git push --tags```
 
-## Git submodules
+# Git submodules
 Links two repos together
 ```
 git submodule add <url>
