@@ -11,6 +11,12 @@ date +"%Y%m%d"
 date +%Y%m%d%H%M%S
 ```
 
+Saving to a variable
+```
+export DATE=`date +"%Y%m%d"`
+export DATE=`date +"+%Y%m%d%H%M%S"`
+```
+
 ## Functions
 How to create a bash function
 * [Functions - Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/bash-functions.php)
