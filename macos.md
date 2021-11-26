@@ -114,3 +114,11 @@ Apple - Creating Launch Daemons and Agents
 * thin-provisioned disk image, saved as 8MB bands
 * Best for iCloud, since it uploads entire changed files
 * Do NOT use on dropbox. If opened on two computers, Dropbox conflict detection will create a copy of a band, and Mac OS will show the entire image as corrupted.
+
+# Troubleshooting
+Force power off: Hold power button for 10 seconds
+
+Safe mode: Power on and immediately hold <shift>
+
+Links
+* [If your Mac doesn’t start up all the way - Apple Support](https://support.apple.com/en-us/HT204156)
