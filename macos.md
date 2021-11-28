@@ -115,6 +115,16 @@ Apple - Creating Launch Daemons and Agents
 * Best for iCloud, since it uploads entire changed files
 * Do NOT use on dropbox. If opened on two computers, Dropbox conflict detection will create a copy of a band, and Mac OS will show the entire image as corrupted.
 
+# Show hidden and system files
+* Open Finder
+* <command><shift><.>
+
+Permanantly
+```
+defaults write com.apple.Finder AppleShowAllFiles true
+killall Finder
+```
+
 # Troubleshooting
 Force power off: Hold power button for 10 seconds
 
