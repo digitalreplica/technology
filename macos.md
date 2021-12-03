@@ -105,6 +105,9 @@ How to Make Your Mac as Secure as Possible
 Apple - Scheduling Timed Jobs
 Apple - Creating Launch Daemons and Agents
 
+## Temporarily prevent idle sleep
+* One hour: ```caffeinate -i -t 3600```
+
 # Mac OS Disk Images
 ## Sparse image
 * thin-provisioned disk image, saved as one file
