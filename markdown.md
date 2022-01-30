@@ -11,6 +11,15 @@ Relative links can be used between any two documents, like `[Relative link](../h
 You can "Copy relative path" in Atom, but that's only from the root directory down. Will have to manually add enough "../"s to go from the current folder up to the root.
 * When changing a filename, or moving a file, will have to find all relative links to the page.
 
+## Tables
+GitHub markdown does support tables. [Working with Tables in GitHub Markdown | Pluralsight](https://www.pluralsight.com/guides/working-tables-github-markdown).
+
+Example
+| Header 1  | Another header here | This is a long header |
+| --------  | ------------------- | --------------------- |
+| Some data | Some more data      | data                  | 
+| data      | Some long data here | more data             | 
+
 ## Guides
 * [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
 * [Writing and formatting on GitHub](https://docs.github.com/en/github/writing-on-github/about-writing-and-formatting-on-github)
