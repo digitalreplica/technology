@@ -1,5 +1,10 @@
 # Python
 
+# Virtual Environments
+```
+python3 -m venv /path/to/new/virtual/environment
+```
+
 # Requests
 https://requests.readthedocs.io/en/master/
 
@@ -9,6 +14,13 @@ import requests
 url='https://api.github.com/some/endpoint'
 payload={"data":"value"}
 r = requests.post(url, json=payload)
+```
+
+## Environment variables
+```
+import os
+USER = os.getenv('API_USER')
+PASSWORD = os.environ.get('API_PASSWORD')
 ```
 
 # Web server
