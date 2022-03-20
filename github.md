@@ -66,6 +66,10 @@ Making queries
 Organization profile
 * [Customizing your organization’s profile - GitHub Docs](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
 
+## Using GitHub Organizations to organize repositories
+[How I Organize my GitHub Repositories | by Andrei Cioara | Andrei Cioara](https://andreicioara.com/how-i-organize-my-github-repositories-ce877db2e8b6)
+* Use github organizations to group repositories together
+
 # GitHub Markdown
 ## Table of Contents
 Github automatically generates a table of contents if there are 2 or more headings. Access in tiny dropdown beside filename. 
