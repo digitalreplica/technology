@@ -53,7 +53,13 @@ run: (test -f ${{ env.REPO_LIST_PATH }} && echo "REPO_LIST_EXISTS=true" >> $GITH
 
 Getting notes repos: ```gh repo list ${owner} --public --topic notes --json url --jq '.[]|.url'```
 
-Get note repos markdown urls: ```gh repo list digitalreplica --public --topic notes --json nameWithOwner,url,description --jq '.[]|"["+.nameWithOwner+"]("+.url+"): "+.description'```
+Get note repos markdown urls: ```gh repo list <organization> --public --topic notes --json nameWithOwner,url,description --jq '.[]|"["+.nameWithOwner+"]("+.url+"): "+.description'```
+
+Clone all repos:
+* use https://github.com/matt-bartel/gh-clone-org extension
+```
+gh clone-org <organization>
+```
 
 # GraphQL
 Explorer
@@ -72,5 +78,5 @@ Organization profile
 
 # GitHub Markdown
 ## Table of Contents
-Github automatically generates a table of contents if there are 2 or more headings. Access in tiny dropdown beside filename. 
+Github automatically generates a table of contents if there are 2 or more headings. Access in tiny dropdown beside filename.
 * [Table of Contents support in Markdown files | GitHub Changelog](https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/)
