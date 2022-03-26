@@ -35,4 +35,18 @@ Bash does have primitive dictionary (key/value) variables in v4.0 or higher.
 * [dictionaries in bash | bitarray - A guide for SRE, DevOps and Webmasters](https://www.bitarray.io/dictionaries-in-bash/)
 
 ## Finding new files
-```find . -type f -newermt "2021-11-01"```
+```
+find . -type f -newermt "2021-11-01"
+```
+
+# Bash script snippets
+
+Is file a directory
+```
+if [ -d /my/directory/ ];
+then
+    echo "/my/directory/ is directory"
+else
+    echo "/my/directory/ is not a directory"
+fi
+```
