@@ -41,3 +41,6 @@ atom-text-editor {
 
 ## Paste link as markdown
 * Add a command to [paste links as markdown](https://flight-manual.atom.io/hacking-atom/sections/the-init-file/)
+
+# Adding Finder "Open in Atom" Quick Action menu
+* https://gist.github.com/idleberg/874790e8e3c8b1419e4439d0a48d2aa5
