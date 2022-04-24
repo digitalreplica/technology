@@ -15,6 +15,16 @@ git log --pretty=oneline -- <filename>
 git log --oneline -- <filename>
 ```
 
+## See if a repo has uncommitted changes
+```
+git status --porcelain
+```
+or
+```
+git status -s
+```
+
+
 ## Make template repo
 * Under Settings
 

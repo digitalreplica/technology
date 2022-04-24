@@ -61,6 +61,12 @@ Clone all repos:
 gh clone-org <organization>
 ```
 
+Sync a single repo
+```
+cd repo
+gh repo sync
+```
+
 # GraphQL
 Explorer
 * [GitHub GraphQL Explorer](https://graphql.github.com/)
