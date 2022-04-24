@@ -22,10 +22,14 @@ or
 git status -s
 ```
 
-## Using a Template Repo
+## Git-related tidbits
+* Global .gitignore file: https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/
+
+## Templates
+**Using a Template Repo**
 In Web UI, go into the repo, click "Use this Template" button
 
-## Make template repo
+**Make template repo**
 * Under Settings
 
 https://docs.github.com/en/enterprise-server@3.1/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-template-repository
