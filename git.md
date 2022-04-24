@@ -3,14 +3,12 @@
 ## Common CLI commands
 * List branches: ```git branch -a```
 
-## Using a Template Repo
-In Web UI, go into the repo, click "Use this Template" button
-
-## Finding the number of commits for a given file
-Returns one line per commit
+**Finding the number of commits for a given file**
+* Returns one line per commit
 ```
 git log --pretty=oneline -- <filename>
 ```
+or
 ```
 git log --oneline -- <filename>
 ```
@@ -24,6 +22,8 @@ or
 git status -s
 ```
 
+## Using a Template Repo
+In Web UI, go into the repo, click "Use this Template" button
 
 ## Make template repo
 * Under Settings
