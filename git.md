@@ -1,6 +1,6 @@
 # Git
 
-## Common CLI command
+## Common CLI commands
 * List branches: ```git branch -a```
 
 ## Using a Template Repo
@@ -15,7 +15,7 @@ git log --pretty=oneline -- <filename>
 git log --oneline -- <filename>
 ```
 
-## See if a repo has uncommitted changes
+**See if a repo has uncommitted changes**
 ```
 git status --porcelain
 ```
