@@ -54,9 +54,14 @@ fi
 Pause for user input
 ```
 # Get user input to continue or quit
-read -p "Enter to continue, q to quit> " -n 1 key
+read -p "Press any key to continue, q to quit> " -n 1 key
 if [[ $key == 'q' ]]
 then
+	echo ""
 	exit
+elif [[ $key != '' ]]
+then
+	# echo blank line on any key except enter
+	echo ""
 fi
 ```
