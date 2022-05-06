@@ -1,5 +1,14 @@
-# Obsidian
-
 Markdown notes app
-* https://obsidian.md/
-* https://help.obsidian.md/Obsidian/Index
+
+# Links
+* [Website](https://obsidian.md/)
+* [Help](https://help.obsidian.md/Obsidian/Index)
+
+# Snippets
+Aliases
+- Set in front matter at the top of a note
+```
+---
+aliases: [AI, Artificial Intelligence]
+---
+```
