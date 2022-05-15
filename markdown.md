@@ -6,8 +6,8 @@ Paragraphs **must** be double spaced (blank line between paragraphs), otherwise 
 Like this.
 
 ## Relative links
-Relative links can be used between any two documents, like `[Relative link](../hacking/aws.md)` becoming [Relative link](../hacking/aws.md). It's going to be a bit annoying to maintain.
-* Hard to manually calculate going from one folder to another. Easier in atom with  [a plugin](./atom.md). Spaces in filenames need `%20`s instead
+Relative links can be used between any two documents, like `[Relative link](../hacking/aws.md)` becoming [Relative link](me-public/hacking/aws.md). It's going to be a bit annoying to maintain.
+* Hard to manually calculate going from one folder to another. Easier in atom with  [a plugin](atom.md). Spaces in filenames need `%20`s instead
 You can "Copy relative path" in Atom, but that's only from the root directory down. Will have to manually add enough "../"s to go from the current folder up to the root.
 * When changing a filename, or moving a file, will have to find all relative links to the page.
 
