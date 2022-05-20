@@ -55,6 +55,26 @@ Getting notes repos: ```gh repo list ${owner} --public --topic notes --json url 
 
 Get note repos markdown urls: ```gh repo list <organization> --public --topic notes --json nameWithOwner,url,description --jq '.[]|"["+.nameWithOwner+"]("+.url+"): "+.description'```
 
+Get fields available for a repo
+```
+gh repo view --json
+```
+
+Getting info for current repo
+```
+gh repo view --json name,nameWithOwner,owner,url,updatedAt
+```
+
+With a template
+```
+gh repo view --json name,url --template '{{printf "name: %s\nurl: %s\n" .name .url}}'
+```
+
+Obsidian repo template
+```
+gh repo view --json name,nameWithOwner,owner,url,isPrivate,description --template '{{printf "---\npage-type: repo\nrepo:\n  name: %s\n  nameWithOwner: %s\n  owner: %s\n  url: %s\n  isPrivate: %t\n---\n\n%s\n" .name .nameWithOwner .owner.login .url .isPrivate .description}}'
+```
+
 Clone all repos:
 * use https://github.com/matt-bartel/gh-clone-org extension
 ```
