@@ -2,12 +2,6 @@
 tags: a/note
 ---
 in:: [[technology]]
-```breadcrumbs
-type: tree
-dir: down
-depth: -1
-from: -"_templates"
-```
 
 # Notes
 Markdown notes app. Using it as a UI on top of git-based note repos
@@ -20,6 +14,9 @@ Markdown notes app. Using it as a UI on top of git-based note repos
 	* [Embedded queries](https://help.obsidian.md/Plugins/Search#Embed+search+results)
 * [Forums](https://forum.obsidian.md/)
 * [ObsidianMD | Reddit](https://www.reddit.com/r/ObsidianMD/)
+
+### Other Resources
+- [Obsidian Roundup](https://www.obsidianroundup.org/resources/) has links to many Obsidian-related resources
 
 ## Plugins
 - [[obsidian dataview]]
@@ -97,6 +94,11 @@ gh repo list --json name,owner,url,isPrivate,description --template '{{range .}}
 ```
 jq -r '.[] | "- [x] #do/drink/beer [name:: " + .beer_name + "],[style:: " + .beer_type + "],[brewery:: " + .brewery_name + "],[abv:: " + .beer_abv + "],[rating:: " + .rating_score + "],[✅" + .created_at + "]"' 068c524db602738a5eb00eb4747a7ed9.json >beer-list.md
 ```
+
+# Css
+- https://help.obsidian.md/How+to/Add+custom+styles
+	- add override in `YOUR_VAULT/.obsidian/snippets/YOUR_CUSTOM_SNIPPET.css`
+
 # Potentially interesting plugins 
 - https://github.com/holubj/obsidian-dialogue-plugin - Create dialog in markdown
 - https://github.com/deathau/sliding-panes-obsidian - Andy Matuschak Mode

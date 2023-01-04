@@ -37,3 +37,7 @@ Cloudformation CLI
 ```
 pip3 install cloudformation-cli-python-plugin
 ```
+
+# AWS Auditing tools
+- https://github.com/StanGirard/YATAS - best practice checks
+- 

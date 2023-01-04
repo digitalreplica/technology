@@ -57,3 +57,11 @@ python3 -m venv /path/to/new/virtual/environment
 ## Web server
 * Serve files from local directory
 ```python3 -m http.server 8000```
+
+## Pip
+### Updating
+```
+pip install --upgrade pip
+```
+
+### Updating packages

@@ -9,24 +9,34 @@ Anaconda is a language and package manager
 # Howto
 
 ## Updating
-
+```
 conda update conda
+```
 
 Activate environment
-
+```
 conda activate py37
+```
 
 Create environment
-
+```
 conda create --name snowflakes python=3.5
+```
 
 Show environments
-
+```
 conda info --envs
+```
 
-install package
-
+Install package
+```
 conda install beautifulsoup4
+```
+
+Update python version
+```
+conda update python
+```
 
 More help
 

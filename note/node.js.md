@@ -40,8 +40,10 @@ MacOS requires sudo for global installations. This can be avoided.
 * Install new version: ```nvm install v12.16.3```
 * Use new version: ```nvm use v12.16.3```
 * Set default: ```nvm alias default v12.16.3```
+* Upgrade npm: `nvm install-latest-npm`
 
 Switching versions: ```nvm use 12.18.3```
+
 ## N version manager
 N manages multiple version of Node.js
 * https://www.npmjs.com/package/n
