@@ -1,7 +1,5 @@
----
-tags: a/note
----
-in:: [[technology]]
+is:: [[note]]
+from:: [[linux]]
 
 # Notes
 Crontab is a file format for scheduled jobs on unix-like systems

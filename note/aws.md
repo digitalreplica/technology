@@ -1,7 +1,5 @@
----
-tags: a/note
----
-in:: [[technology]]
+is:: [[note]]
+from:: [[technology]]
 
 # Notes
 Amazon Web Services (AWS) notes.
@@ -10,8 +8,8 @@ Amazon Web Services (AWS) notes.
 ## CLI Setup
 - [Environment Variables](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)
 ```
-export AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
-export AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+export AWS_ACCESS_KEY_ID=AKIAEXAMPLEEXAMPLE
+export AWS_SECRET_ACCESS_KEY=EXAMPLE/EXAMPLE/EXAMPLEKEY
 export AWS_DEFAULT_REGION=us-west-2
 ```
 

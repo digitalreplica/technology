@@ -1,7 +1,5 @@
----
-tags: a/note
----
-in:: [[technology]]
+is:: [[note]]
+from:: [[technology]]
 
 # Notes
 Unicode is a standard for digitally encoding human text.

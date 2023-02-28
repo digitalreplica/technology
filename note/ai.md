@@ -1,7 +1,5 @@
----
-tags: a/note
----
-in:: [[technology]]
+is:: [[note]]
+from:: [[technology]]
 
 # Notes
 AI and machine learning notes

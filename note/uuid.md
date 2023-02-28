@@ -1,7 +1,5 @@
----
-tags: a/note
----
-in:: [[technology]]
+is:: [[note]]
+from:: [[technology]]
 
 # Notes
 UUID are randomly generated IDs that **should** be unique.
