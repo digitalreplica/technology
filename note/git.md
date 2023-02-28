@@ -30,6 +30,10 @@ or
 git status -s
 ```
 
+## Squashing commits in main branch
+- https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/squashing-commits
+
+
 ## Git-related tidbits
 * Global .gitignore file: https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/
 
@@ -76,7 +80,11 @@ git submodule foreach 'git pull'
 
 [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 
-Removing submodules is a horrible mess. First attempt wasn't fully successful, and ended up wiping the commit and repulling from main. Used the first answer in [git - How do I remove a submodule? - Stack Overflow](https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule).
+Removing submodules. From [git - How do I remove a submodule? - Stack Overflow](https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule), modern git versions allow
+```
+git rm {submodule}
+git config --remove-section submodule.{submodule}
+```
 
 # Resources
 * [Git - Book](https://git-scm.com/book/en/v2)

@@ -2,7 +2,7 @@
 tags: a/repo
 url: https://github.com/digitalreplica/technology
 ---
-in:: [[topics]]
+in:: [[topic]]
 ```breadcrumbs
 type: tree
 dir: down

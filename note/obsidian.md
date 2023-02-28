@@ -11,9 +11,11 @@ Markdown notes app. Using it as a UI on top of git-based note repos
 * [Website](https://obsidian.md/)
 * [Help](https://help.obsidian.md/Obsidian/Index)
 	* [Format your notes](https://help.obsidian.md/How+to/Format+your+notes)
+		* [Diagrams](https://help.obsidian.md/How+to/Format+your+notes#Diagram)
 	* [Embedded queries](https://help.obsidian.md/Plugins/Search#Embed+search+results)
 * [Forums](https://forum.obsidian.md/)
 * [ObsidianMD | Reddit](https://www.reddit.com/r/ObsidianMD/)
+
 
 ### Other Resources
 - [Obsidian Roundup](https://www.obsidianroundup.org/resources/) has links to many Obsidian-related resources
