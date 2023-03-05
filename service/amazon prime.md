@@ -1,0 +1,3 @@
+is:: [[service]]
+from:: [[technology]]
+
