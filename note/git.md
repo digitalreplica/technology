@@ -31,9 +31,12 @@ git status -s
 ## Squashing commits in main branch
 - https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/squashing-commits
 
-
-## Git-related tidbits
-* Global .gitignore file: https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/
+## Global .gitignore file
+* https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/
+```
+touch ~/.gitignore
+git config --global core.excludesfile ~/.gitignore
+```
 
 ## Templates
 **Using a Template Repo**
