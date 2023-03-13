@@ -80,3 +80,10 @@ Rename date-based files from YYYYMMDD.md to YYYY-MM-DD.md
 ```
 for i in *.md; do mv $i ${i:0:4}-${i:4:2}-${i:6:2}.md; done
 ```
+Range with leading zeros
+```sh
+for i in {00..3}
+do
+  echo "Number: $i"
+done
+```

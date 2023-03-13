@@ -94,6 +94,11 @@ gh repo list --json name,owner,url,isPrivate,description --template '{{range .}}
 jq -r '.[] | "- [x] #do/drink/beer [name:: " + .beer_name + "],[style:: " + .beer_type + "],[brewery:: " + .brewery_name + "],[abv:: " + .beer_abv + "],[rating:: " + .rating_score + "],[✅" + .created_at + "]"' 068c524db602738a5eb00eb4747a7ed9.json >beer-list.md
 ```
 
+Custom dates in templates
+```
+{{date:YYYY-MM-DD}}
+```
+
 # Css
 - https://help.obsidian.md/How+to/Add+custom+styles
 	- add override in `YOUR_VAULT/.obsidian/snippets/YOUR_CUSTOM_SNIPPET.css`
