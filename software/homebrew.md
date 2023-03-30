@@ -21,3 +21,9 @@ brew upgrade <formula>
 ```
 brew upgrade
 ```
+
+### Install and use old version
+```
+brew install nmap@7.8
+brew switch nmap 7.8
+```
