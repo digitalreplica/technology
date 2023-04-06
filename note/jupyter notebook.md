@@ -15,3 +15,7 @@ Jupyter notebooks are a way to share interactive code and documentation.
 ```
 jupyter lab
 ```
+
+# Online notebooks
+**Try Jupyter** (https://try.jupyter.org) is a site for trying out the Jupyter Notebook, equipped with kernels for several different languages (Julia, R, C++, Scheme, Ruby) without installing anything. Click the link below to go to the page.
+- basic notebooks only, no background processes (so no `pip install`)
