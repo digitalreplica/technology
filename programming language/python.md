@@ -45,6 +45,42 @@ print(selection)
 Merging dataframes
 * [Joining DataFrames in Pandas | DataCamp](https://www.datacamp.com/community/tutorials/joining-dataframes-pandas)
 
+Dictionary or list of dicts to dataframe
+```
+mydata = [{'name': 'alice'}, {'name': 'bob'}]
+df = pd.DataFrame.from_dict(mydata)
+```
+
+Removing `$` from numbers
+```
+df['Sales'] = df['Sales'].str.replace('$', '')
+```
+
+Renaming columns
+```
+df.rename(columns={"A": "a", "B": "c"})
+```
+
+Convert column to numbers
+```python
+df["a"] = pd.to_numeric(df["a"])
+```
+
+Sum a column
+```
+df['points'].sum()
+```
+
+Showing column types
+```
+print(df.dtypes)
+```
+
+Saving CSV
+```
+df.to_csv('file1.csv', index=False)
+```
+
 # Command Line Stuff
 ## Virtual Environments
 ```
