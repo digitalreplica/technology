@@ -21,3 +21,4 @@ equals:: https://1password.com/personal
 		```
 	  - Run your command using op run
 		  - Example: `op run --env-file="./prod.env" -- aws`
+	- Set the environment safe
