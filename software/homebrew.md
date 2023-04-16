@@ -22,7 +22,13 @@ brew upgrade <formula>
 brew upgrade
 ```
 
+### Listing installed packages
+```
+brew list
+```
+
 ### Install and use old version
+Note: switch now deprecated
 ```
 brew install nmap@7.8
 brew switch nmap 7.8

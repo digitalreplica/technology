@@ -31,6 +31,7 @@ MacOS requires sudo for global installations. This can be avoided.
 # Managing multiple Node versions
 ## NVM
 * https://github.com/nvm-sh/nvm
+	* On mac, can `brew install nvm`. Pay attention to the `~/.zshrc` changes needed.
 
 * Listing installed versions: ```nvm ls```
 * Listing all available versions: ```nvm ls-remote```

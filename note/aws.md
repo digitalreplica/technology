@@ -13,6 +13,13 @@ export AWS_SECRET_ACCESS_KEY=EXAMPLE/EXAMPLE/EXAMPLEKEY
 export AWS_DEFAULT_REGION=us-west-2
 ```
 
+### Default region and output
+```
+[default]
+region = us-west-2
+output = text
+```
+
 ## CLI Foo
 Copy file to s3
 aws s3 cp test.txt s3://mybucket/test2.txt
