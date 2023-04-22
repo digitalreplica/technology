@@ -3,6 +3,8 @@ is:: [[software]]
 # Notes
 Firefox notes.
 
+## Preferences
+- Disable `Use autoscrolling` (middle mouse button scroll)
 # HowTo
 ## Open bookmarks in new tab
 - open about:config
