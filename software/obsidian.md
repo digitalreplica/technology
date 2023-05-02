@@ -96,7 +96,8 @@ jq -r '.[] | "- [x] #do/drink/beer [name:: " + .beer_name + "],[style:: " + .bee
 
 Custom dates in templates
 ```
-{{date:YYYY-MM-DD}}
+{{date:YYYY-MM-DD}} - date
+{{date:YYYY-MM}} - month
 ```
 
 # Css
