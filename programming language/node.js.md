@@ -45,3 +45,17 @@ Switching versions: ```nvm use 12.18.3```
 ## N version manager
 N manages multiple version of Node.js
 * https://www.npmjs.com/package/n
+
+# Snippets
+## Make http request
+```
+const http = require('http');
+
+let request = http.get('http://{url}/', (res) => { 
+	console.log("Inside request");
+	console.log(res.statusCode);
+	return res;
+});
+console.log("Outside request");
+console.log(process.cwd())
+```

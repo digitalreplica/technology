@@ -42,6 +42,11 @@ selection = df[['Name', 'Age', 'Height']]
 print(selection)
 ```
 
+Updating columns that meet a certain condition
+```
+df.loc[df['Quantity'] == 0, 'Quantity'] = df['Current Value']
+```
+
 Merging dataframes
 * [Joining DataFrames in Pandas | DataCamp](https://www.datacamp.com/community/tutorials/joining-dataframes-pandas)
 
@@ -85,6 +90,12 @@ df.to_csv('file1.csv', index=False)
 ## Virtual Environments
 ```
 python3 -m venv /path/to/new/virtual/environment
+```
+or most commonly
+```
+python3 -m venv venv3
+source venv3/bin/activate
+python --version
 ```
 
 ## Web server

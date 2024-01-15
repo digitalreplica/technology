@@ -13,7 +13,6 @@ Markdown notes app. Using it as a UI on top of git-based note repos
 * [Forums](https://forum.obsidian.md/)
 * [ObsidianMD | Reddit](https://www.reddit.com/r/ObsidianMD/)
 
-
 ### Other Resources
 - [Obsidian Roundup](https://www.obsidianroundup.org/resources/) has links to many Obsidian-related resources
 
@@ -100,6 +99,10 @@ Custom dates in templates
 {{date:YYYY-MM}} - month
 ```
 
+Links to local files
+```
+[Text](<file:///path to file.pdf>)
+```
 # Css
 - https://help.obsidian.md/How+to/Add+custom+styles
 	- add override in `YOUR_VAULT/.obsidian/snippets/YOUR_CUSTOM_SNIPPET.css`
@@ -119,3 +122,7 @@ Custom dates in templates
 	- Feature request at https://forum.obsidian.md/t/make-starred-notes-searchable/15125
 - Energy consumption?
 - Try breadcrumbs plugin?
+
+# Misc Notes
+- searching properties will not find boolean or int values, feature [coming](https://forum.obsidian.md/t/properties-support-searching-for-boolean-checkbox-state-like-completed-true/67990/3) in v1.5
+- We don’t remove registered properties automatically (in case you plan on using them again in the future). But you can manually remove them by just right-clicking in the All Properties view and clicking “Unassign type.”

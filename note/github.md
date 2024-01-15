@@ -63,9 +63,11 @@ run: (test -f ${{ env.REPO_LIST_PATH }} && echo "REPO_LIST_EXISTS=true" >> $GITH
 Getting notes repos: ```gh repo list ${owner} --public --topic notes --json url --jq '.[]|.url'```
 
 Cloning repo: `gh repo clone ${repo_name}`
-```
 
-Get note repos markdown urls: ```gh repo list <organization> --public --topic notes --json nameWithOwner,url,description --jq '.[]|"["+.nameWithOwner+"]("+.url+"): "+.description'```
+Get note repos markdown urls: 
+```
+gh repo list <organization> --public --topic notes --json nameWithOwner,url,description --jq '.[]|"["+.nameWithOwner+"]("+.url+"): "+.description'```
+```
 
 Get fields available for a repo
 ```
@@ -81,9 +83,8 @@ With a template
 ```
 gh repo view --json name,url --template '{{printf "name: %s\nurl: %s\n" .name .url}}'
 ```
-
 Clone all repos:
-* use https://github.com/matt-bartel/gh-clone-org extension
+- use https://github.com/matt-bartel/gh-clone-org extension
 ```
 gh clone-org <organization>
 ```

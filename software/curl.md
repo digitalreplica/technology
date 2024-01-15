@@ -5,7 +5,7 @@ from:: [[linux]]
 Curl is a linux command to interact with web servers
 
 ## Common usages
-* Download file `curl -O url`
+* Download file `curl -O url` or `curl -o file_path URL`
 * Verbose `curl -v`
 * PUT `curl -v -X PUT`
 * Adding Headers and data
