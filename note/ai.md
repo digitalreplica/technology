@@ -16,3 +16,21 @@ AI and machine learning notes
 [TensorFlow Image Recognition Python API Tutorial – Towards Data Science](https://towardsdatascience.com/tensorflow-image-recognition-python-api-e35f7d412a70)
 [Train Inception with Custom Images on CPU – Towards Data Science](https://towardsdatascience.com/training-inception-with-tensorflow-on-custom-images-using-cpu-8ecd91595f26)
 https://www.tensorflow.org/hub/tutorials/image_retraining
+
+# LLM models on macbook
+- https://devcodef1.com/news/1079753/run-llms-models-on-macbook-air-m1
+	- using M1 macbook
+- https://github.com/ggerganov/llama.cpp
+	- using https://huggingface.co/TheBloke/Llama-2-7B-GGUF/blob/main/llama-2-7b.Q4_K_M.gguf
+	- 
+# Cloud services
+- https://www.copy.ai/tools
+	- marketing focused ai
+	- can do blog posts and product descriptions
+
+# 2024 opensource llm
+- https://www.datacamp.com/blog/top-open-source-llms
+	- nlp cloud looks interesting
+- https://nlpcloud.com
+	- free playground, limited number of queries per hour
+	- 

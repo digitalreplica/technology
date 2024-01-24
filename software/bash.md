@@ -87,3 +87,13 @@ do
   echo "Number: $i"
 done
 ```
+
+Create [[uuid]]
+```
+uuidgen | tr '[:upper:]' '[:lower:]'
+```
+
+Copy output to clipboard
+```
+echo hi | pbcopy
+```
