@@ -1,3 +1,5 @@
-is:: [[concept]]
-from:: [[technology]]
-equals:: [Computer security | Wikipedia](https://en.wikipedia.org/wiki/Computer_security)
+---
+is: "[[concept]]"
+of: "[[technology]]"
+urls: https://en.wikipedia.org/wiki/Computer_security
+---

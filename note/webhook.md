@@ -1,6 +1,7 @@
-is:: [[note]]
-from:: [[technology]]
-
+---
+is: "[[note]]"
+of: "[[technology]]"
+---
 # Notes
 Webhooks
 

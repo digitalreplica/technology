@@ -1,5 +1,6 @@
-is:: [[software]]
-
+---
+is: "[[software]]"
+---
 # Notes
 Cucumber is a plain-english software testing tool
 

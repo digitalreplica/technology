@@ -1,7 +1,8 @@
-is:: [[operating system]]
-from:: [[linux]]
-equals:: [OpenWrt | Wikipedia](https://en.wikipedia.org/wiki/OpenWrt)
-
+---
+is: "[[operating system]]"
+of: "[[linux]]"
+urls: https://en.wikipedia.org/wiki/OpenWrt
+---
 # Notes
 Openwrt
 

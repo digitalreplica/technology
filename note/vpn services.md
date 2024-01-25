@@ -1,8 +1,9 @@
-is:: [[note]]
-from:: [[technology]]
-from:: [[security]]
-in:: 
-
+---
+is: "[[note]]"
+of: "[[technology]]"
+of: "[[security]]"
+in: 
+---
 # Notes
 - https://www.ivpn.net/
 - https://torguard.net/

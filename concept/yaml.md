@@ -1,6 +1,7 @@
-is:: [[concept]]
-equals:: [YAML | Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
+---
+is: "[[concept]]"
+urls: https://en.wikipedia.org/wiki/YAML
+---
 # Notes
 
 ## Guides and cheetsheets

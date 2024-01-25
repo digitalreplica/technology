@@ -1,7 +1,8 @@
-is:: [[note]]
-from:: [[technology]]
-near:: [[github]]
-
+---
+is: "[[note]]"
+of: "[[technology]]"
+near: "[[github]]"
+---
 # Notes
 Git cli notes.
 

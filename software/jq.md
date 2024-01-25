@@ -1,6 +1,7 @@
-is:: [[software]]
-from:: [[linux]]
-
+---
+is: "[[software]]"
+of: "[[linux]]"
+---
 # Notes
 jq is a cli tool to query json data
 

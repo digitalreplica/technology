@@ -1,5 +1,6 @@
-is:: [[programming language]]
-
+---
+is: "[[programming language]]"
+---
 # Notes
 Python programming languages
 

@@ -1,12 +1,11 @@
 ---
+is: "[[note]]"
+urls: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
+in: "[[aws tech notes]]"
 Aliases: Instance Metadata Service
 Aliases: IMDSv1
 Aliases: IMDSv2
 ---
-is:: [[note]]
-equals:: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
-in:: [[aws tech notes]]
-
 # Notes
 - Security
 	- https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/configuring-instance-metadata-service.html

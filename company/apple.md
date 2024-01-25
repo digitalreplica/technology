@@ -1,4 +1,5 @@
-is:: [[company]]
-equals:: https://www.apple.com/
-
+---
+is: "[[company]]"
+urls: https://www.apple.com/
+---
 # About

@@ -1,5 +1,6 @@
-is:: [[hardware]]
-
+---
+is: "[[hardware]]"
+---
 # Notes
 QNAP NAS
 * [QNAP (US)](https://www.qnap.com/en-us)

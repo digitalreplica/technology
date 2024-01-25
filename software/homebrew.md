@@ -1,6 +1,7 @@
-is:: [[software]]
-from:: [[macos]]
-
+---
+is: "[[software]]"
+of: "[[macos]]"
+---
 # Notes
 Homebrew is a package manager for Mac OS
 - Website: https://brew.sh/

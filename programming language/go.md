@@ -1,5 +1,6 @@
-is:: [[programming language]]
-
+---
+is: "[[programming language]]"
+---
 # Notes
 Go programming language
 

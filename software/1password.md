@@ -1,6 +1,7 @@
-is:: [[software]]
-equals:: https://1password.com/personal
-
+---
+is: "[[software]]"
+urls: https://1password.com/personal
+---
 # Notes
 
 ## Environment variables

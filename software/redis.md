@@ -1,5 +1,6 @@
-is:: [[software]]
-
+---
+is: "[[software]]"
+---
 # Notes
 Redis
 

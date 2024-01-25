@@ -1,6 +1,7 @@
-is:: [[note]]
-from:: [[technology]]
-
+---
+is: "[[note]]"
+of: "[[technology]]"
+---
 # Notes
 Unicode is a standard for digitally encoding human text.
 

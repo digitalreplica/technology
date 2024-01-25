@@ -1,6 +1,7 @@
-is:: [[note]]
-from:: [[technology]]
-
+---
+is: "[[note]]"
+of: "[[technology]]"
+---
 # Notes
 Jupyter notebooks are a way to share interactive code and documentation.
 

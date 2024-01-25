@@ -1,6 +1,7 @@
-is:: [[operating system]]
-equals:: [linux | Wikipedia](https://en.wikipedia.org/wiki/Linux)
-
+---
+is: "[[operating system]]"
+urls: https://en.wikipedia.org/wiki/Linux
+---
 # Notes
 Linux operating system notes. Mostly remembering quick cli snippets
 

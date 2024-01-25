@@ -1,4 +1,7 @@
-is:: [[software]]
+---
+is:
+  - "[[software]]"
+---
 
 # Notes
 Markdown notes app. Using it as a UI on top of git-based note repos
@@ -30,7 +33,7 @@ Codeblock for down nodes (Remove `#` at end of breadcrumns)
 type: tree
 dir: down
 depth: -1
-from: -"_templates"
+of: -"_templates"
 ```
 
 Codeblock for tags
@@ -45,6 +48,7 @@ BC-tag-note-field: down
 Function | Hotkey | Notes
 --- | --- | ---
 Insert Template | apple-T
+is: "[[software]]"
 Insert current date | apple-shift-8 | Mimic Bear notes
 
 ## Ideas

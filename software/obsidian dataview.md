@@ -1,5 +1,7 @@
-is:: [[software]]
-from:: [[obsidian]]
+---
+is:
+  - "[[software]]"
+---
 
 # Notes
 File query language plugin for [[obsidian]].
@@ -15,6 +17,8 @@ YAML objects aren't really objects. With some frontmatter like
 ---
 object:
 	name: foo
+is: "[[software]]"
+of: "[[obsidian]]"
 ---
 ```
 

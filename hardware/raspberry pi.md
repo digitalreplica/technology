@@ -1,5 +1,6 @@
-is:: [[hardware]]
-
+---
+is: "[[hardware]]"
+---
 # Notes
 Raspberry Pi
 

@@ -1,3 +1,5 @@
-is:: [[service]]
-from:: [[technology]]
+---
+is: "[[service]]"
+of: "[[technology]]"
+---
 

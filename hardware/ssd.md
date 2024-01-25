@@ -1,6 +1,7 @@
-is:: [[hardware]]
-equals:: [ssd | Wikipedia](https://en.wikipedia.org/wiki/Solid-state_drive)
-
+---
+is: "[[hardware]]"
+urls: https://en.wikipedia.org/wiki/Solid-state_drive
+---
 # Notes
 ### M.2 Drives
 * Mostly a form factor.

@@ -1,6 +1,7 @@
-is:: [[note]]
-from:: [[technology]]
-
+---
+is: "[[note]]"
+of: "[[technology]]"
+---
 # Notes
 Everything about agile methodology, and tracking it using epics and stories.
 

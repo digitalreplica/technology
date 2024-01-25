@@ -1,6 +1,7 @@
-is:: [[software]]
-from:: [[linux]]
-
+---
+is: "[[software]]"
+of: "[[linux]]"
+---
 # Notes
 Linux bash notes and shell scripting tidbits
 

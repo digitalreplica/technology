@@ -1,2 +1,4 @@
-is:: [[concept]]
-equals:: [software | Wikipedia](https://en.wikipedia.org/wiki/Software)
+---
+is: "[[concept]]"
+urls: https://en.wikipedia.org/wiki/Software
+---

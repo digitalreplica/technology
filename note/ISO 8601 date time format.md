@@ -1,6 +1,7 @@
-is:: [[note]]
-equals:: [ISO 8601 | Wikipedia](https://en.wikipedia.org/wiki/ISO_8601)
-
+---
+is: "[[note]]"
+urls: https://en.wikipedia.org/wiki/ISO_8601
+---
 # Notes
 - A standardized date and time format
 - Dates follow the standard `YYYY-MM-DD`, like `2023-03-12`

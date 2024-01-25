@@ -1,10 +1,9 @@
 ---
+is: "[[software]]"
+of: "[[apple]]"
+urls: https://www.apple.com/home-app/
 aliases: apple home
 ---
-is:: [[software]]
-from:: [[apple]]
-equals:: https://www.apple.com/home-app/
-
 # Notes
 Use and devices for Apple HomeKit
 - [Apple Store accessories](https://www.apple.com/shop/accessories/all/homekit)

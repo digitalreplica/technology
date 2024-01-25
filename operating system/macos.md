@@ -1,6 +1,7 @@
-is:: [[operating system]]
-equals:: [MacOS | Wikipedia](https://en.wikipedia.org/wiki/MacOS)
-
+---
+is: "[[operating system]]"
+urls: https://en.wikipedia.org/wiki/MacOS
+---
 # Notes
 Mac OS Notes
 

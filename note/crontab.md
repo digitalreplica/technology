@@ -1,6 +1,7 @@
-is:: [[note]]
-from:: [[linux]]
-
+---
+is: "[[note]]"
+of: "[[linux]]"
+---
 # Notes
 Crontab is a file format for scheduled jobs on unix-like systems
 

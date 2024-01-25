@@ -1,10 +1,10 @@
 ---
+is: "[[note]]"
+of: "[[web server]]"
+urls: https://www.rfc-editor.org/rfc/
 aliases: rfc8615
 aliases: Well-Known Uniform Resource Identifiers
 ---
-is:: [[note]]
-from:: [[web server]]
-equals:: [RFC 8615](https://www.rfc-editor.org/rfc/)
 
 
 # Notes

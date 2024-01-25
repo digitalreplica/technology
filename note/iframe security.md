@@ -1,6 +1,7 @@
-is:: [[note]]
-from:: [[security]]
-
+---
+is: "[[note]]"
+of: "[[security]]"
+---
 # Notes
 - Adding the `sandbox` restricts pretty much all scripts and browser behavior of any kind.
 - Can add permissions to set exactly what the iframe is allowed to do

@@ -1,7 +1,8 @@
-is:: [[service]]
-from:: [[technology]]
-from:: [[security]]
-
+---
+is: "[[service]]"
+of: "[[technology]]"
+of: "[[security]]"
+---
 # Notes
 - SSO provider
 

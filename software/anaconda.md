@@ -1,5 +1,6 @@
-is:: [[software]]
-
+---
+is: "[[software]]"
+---
 # Notes
 Anaconda is a language and package manager
 

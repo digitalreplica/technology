@@ -1,6 +1,7 @@
-is:: [[service]]
-from:: [[technology]]
-
+---
+is: "[[service]]"
+of: "[[technology]]"
+---
 # Notes
 Peer-to-peer payment app
 * Currently owned by Paypal

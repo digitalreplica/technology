@@ -1,5 +1,6 @@
-is:: [[programming language]]
-
+---
+is: "[[programming language]]"
+---
 # Notes
 Node.js is a server-side focused javascript language
 

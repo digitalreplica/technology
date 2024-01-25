@@ -1,6 +1,7 @@
-is:: [[software]]
-equals:: [Atom](https://atom.io/)
-
+---
+is: "[[software]]"
+urls: https://atom.io/
+---
 # Notes
 Atom is Github's text editor.
 

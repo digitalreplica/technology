@@ -1,6 +1,7 @@
-is:: [[software]]
-from:: [[linux]]
-
+---
+is: "[[software]]"
+of: "[[linux]]"
+---
 # Notes
 Curl is a linux command to interact with web servers
 

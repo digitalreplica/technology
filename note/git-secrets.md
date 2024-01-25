@@ -1,7 +1,8 @@
-is:: [[note]]
-from:: 
-in:: 
-
+---
+is: "[[note]]"
+of: 
+in: 
+---
 # Notes
 - Finds passwords in git repos
 - https://github.com/awslabs/git-secrets

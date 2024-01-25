@@ -1,7 +1,8 @@
-is:: [[howto]]
-from:: [[cli]]
-from:: [[digitalreplica/technology/software/bash]]
-
+---
+is: "[[howto]]"
+of: "[[cli]]"
+of: "[[digitalreplica/technology/software/bash]]"
+---
 # Notes
 
 ## Edit all files in a folder

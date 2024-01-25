@@ -1,5 +1,6 @@
-is:: [[hardware]]
-
+---
+is: "[[hardware]]"
+---
 # Notes
 Business-focused routers, switches, and wireless devices
 
