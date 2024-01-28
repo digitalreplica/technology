@@ -2,20 +2,44 @@
 is: "[[programming language]]"
 ---
 # Notes
-Python programming languages
+- Python programming languages
+## Strings
+multiline strings - using triple quotes
+```
+"""line one
+line two
+"""
+```
+## Files
+Read file
 
-## Environment variables
+# Standard libraries
+## os
+Environment variables
 ```
 import os
 USER = os.getenv('API_USER')
 PASSWORD = os.environ.get('API_PASSWORD')
 ```
+### os.path
+- Path manipulation
 
+File exists
+```
+import os
+os.path.exists('filename')
+```
+## uuid
+Create uuid
+```
+import uuid
+my_uuid = str(uuid.uuid4())
+```
 # 3rd Party Libraries
 ## Requests
 https://requests.readthedocs.io/en/master/
 
-### Post JSON data
+Post JSON data
 ```
 import requests
 url='https://api.github.com/some/endpoint'
