@@ -34,4 +34,7 @@ https://www.tensorflow.org/hub/tutorials/image_retraining
 	- nlp cloud looks interesting
 - https://nlpcloud.com
 	- free playground, limited number of queries per hour
-	- 
+
+# Image Creation
+- https://www.bing.com/images/create/
+- 
