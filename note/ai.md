@@ -5,6 +5,10 @@ of: "[[technology]]"
 # Notes
 AI and machine learning notes
 
+## Introduction to LLMs
+- https://blog.paperspace.com/llm-revolution/
+- 
+
 ## Software
 * Tensorflow - Google
 * PyTorch - Facebook
@@ -29,6 +33,9 @@ https://www.tensorflow.org/hub/tutorials/image_retraining
 	- marketing focused ai
 	- can do blog posts and product descriptions
 
+## DigitalOcean Paperspace - free and paid GPUs
+Free tiers
+- Graphcore IPU - Generous CPU and RAM, GPU quite slow
 # 2024 opensource llm
 - https://www.datacamp.com/blog/top-open-source-llms
 	- nlp cloud looks interesting

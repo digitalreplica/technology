@@ -204,3 +204,23 @@ git diff master
 ```
 git diff HEAD^ HEAD
 ```
+
+# Forks
+How to synchronize between upstreams and local changes
+- Assume `main` is fork of `upstream` and you have a `local` copy of main
+- Merge `upstream` to `local`
+- Push to `main`
+
+Keeping some changes in fork, pushing some changes to upstream
+- same as above, but want to push a limited number of changes back to upstream
+- https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
+- Create a `branch` from `main`
+- Set the base for the `branch` to `upstream`
+- Make changes
+- Open pull request
+- Merge pull request into `upstream`
+- Merge `upstream` into `main`
+
+Resources
+- https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks
+- 
