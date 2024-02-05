@@ -32,7 +32,8 @@ https://www.tensorflow.org/hub/tutorials/image_retraining
 - https://www.copy.ai/tools
 	- marketing focused ai
 	- can do blog posts and product descriptions
-
+- https://chat.lmsys.org/
+	- Does a "battle" using a single prompt for two ai models, vote for the better answer
 ## DigitalOcean Paperspace - free and paid GPUs
 Free tiers
 - Graphcore IPU - Generous CPU and RAM, GPU quite slow
