@@ -22,6 +22,7 @@ Markdown notes app. Using it as a UI on top of git-based note repos
 ## Plugins
 - [[obsidian dataview]]
 - [juggl](https://juggl.io/Juggl)
+- https://github.com/snezhig/obsidian-front-matter-title/tree/master
 
 ### Breadcrumbs
 - [breadcrumbs documentation](https://breadcrumbs-wiki.onrender.com/docs/Home)
