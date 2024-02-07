@@ -45,4 +45,9 @@ Free tiers
 
 # Image Creation
 - https://www.bing.com/images/create/
+
+# LLM Notes
+## Qwen
+- https://qwenlm.github.io/blog/qwen1.5/
+- very understandable with qwen1.5-72b-chat
 - 
