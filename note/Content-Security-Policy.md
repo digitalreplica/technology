@@ -2,6 +2,7 @@
 is: "[[note]]"
 aliases:
   - CSP header
+  - Content-Security-Policy
 of:
   - "[[http]]"
   - "[[security]]"
