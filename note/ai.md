@@ -1,6 +1,8 @@
 ---
-is: "[[note]]"
-of: "[[technology]]"
+is:
+  - "[[note]]"
+of:
+  - "[[technology]]"
 ---
 # Notes
 AI and machine learning notes
@@ -35,8 +37,16 @@ https://www.tensorflow.org/hub/tutorials/image_retraining
 - https://chat.lmsys.org/
 	- Does a "battle" using a single prompt for two ai models, vote for the better answer
 ## DigitalOcean Paperspace - free and paid GPUs
-Free tiers
-- Graphcore IPU - Generous CPU and RAM, GPU quite slow
+- https://console.paperspace.com
+- Free tiers
+	- Graphcore IPU - Generous CPU and RAM, GPU quite slow
+
+### Paperspace Pro tier testing
+- Free-P5000 - 30gb ram, 8cpu, 16gb gpu
+	- https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat - 👍, just a few seconds to generate, decent responses
+	- https://huggingface.co/Qwen/Qwen1.5-7B-Chat-GPTQ-Int8 - 👎
+		- `RuntimeError: probability tensor contains either `inf`, `nan` or element < 0`
+	- https://huggingface.co/Qwen/Qwen1.5-7B-Chat-GPTQ-Int4  - 👍
 # 2024 opensource llm
 - https://www.datacamp.com/blog/top-open-source-llms
 	- nlp cloud looks interesting
