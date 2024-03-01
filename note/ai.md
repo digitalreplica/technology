@@ -3,11 +3,23 @@ is:
   - "[[note]]"
 of:
   - "[[technology]]"
+aliases:
+  - ai
+  - artificial intelligence
+  - machine learning
+  - llm
+  - large language model
 ---
 # Notes
-AI and machine learning notes
+- Recent development in large language models and generative ai have sparked a new era in AI. Tech-focused companies are going nuts adding it to their products
+- Much of AI is based on large predictive models based on "weights", or the probabilities of something happening. In language models, this might be probabilities of which words might follow a given word or set of words. Generally, more parameters or weights in a model increases the complexity of the knowledge it might have. The most complex language models today can exceed 100 billion parameters.
+- Large AI models uses a massive amount of computing, typically GPUs. A high-end gaming system graphics card can struggle to run the larger ones. Server-grade GPUs are becoming more common with large amounts of ram.
+- Types of AI models
+	- Machine learning (ML): generic term for training predictive algorithms
+	- Large language models (LLM): 
+	- 
 
-## Introduction to LLMs
+## LLM
 - https://blog.paperspace.com/llm-revolution/
 - 
 
