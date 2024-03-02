@@ -17,8 +17,13 @@ aliases:
 - Types of AI models
 	- Machine learning (ML): generic term for training predictive algorithms
 	- Large language models (LLM): 
+
+## Quantization
+Quantization reduces the compute and ram needs for large models. Model weights are typically 32-bit or 64-bit floating point numbers, requiring enormous amounts of ram. Quantization reduces the weights to smaller integers, with 4-bits and 8-bits as a sweet spot to balance accuracy with resource constraints on more limited devices. A large quantized model still performs better than a smaller model of the same size.
+
 Resources
 - https://blog.paperspace.com/llm-revolution/
+- https://www.hardware-corner.net/guides/computer-to-run-llama-ai-model/
 
 # Image Creation
 - https://www.bing.com/images/create/
