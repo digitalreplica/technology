@@ -58,4 +58,12 @@ Resources
 
 # Prompt engineering
 - https://platform.openai.com/docs/guides/prompt-engineering
+
+# Fine tuning
+Retraining a LLM with a smaller, domain-specific set of knowledge
+
+Resources
+- https://www.datacamp.com/tutorial/fine-tuning-large-language-models - some python examples for transformers
+- https://www.datacamp.com/tutorial/fine-tuning-llama-2 - another good example with code
+- https://huggingface.co/blog/falcon - using and finetuning falcon dataset
 - 
