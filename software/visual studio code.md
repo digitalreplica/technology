@@ -20,3 +20,6 @@ Open a folder in MacOS Finder
 Edit a line in all files
 - select `edit`, `replace in files`. Review the preview then click the `Replace all` button
 - https://code.visualstudio.com/docs/editor/codebasics#_search-and-replace
+
+Replace `\n` with newline
+- Search for `\n`, replace with <crtl><enter>
