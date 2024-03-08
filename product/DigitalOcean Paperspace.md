@@ -1,6 +1,8 @@
 ---
 is:
   - "[[product]]"
+of:
+  - "[[ai]]"
 ---
 # Notes
 - free and paid GPUs
@@ -30,3 +32,5 @@ is:
 	- https://huggingface.co/Qwen/Qwen1.5-7B-Chat-GPTQ-Int4  - 👍
 	- https://huggingface.co/Qwen/Qwen1.5-7B-Chat 🤞 - can answer short questions, but longer ones give `RuntimeError: CUDA out of memory`
 	- https://huggingface.co/Qwen/Qwen1.5-72B-Chat-GPTQ-Int4 👎 - OutOfMemoryError
+	- https://huggingface.co/Qwen/Qwen1.5-14B-Chat-GPTQ-Int8 👎 - OutOfMemoryError
+	- https://huggingface.co/tiiuae/falcon-7b 👍 - Runs, but answers aren't all that great.

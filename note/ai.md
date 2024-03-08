@@ -24,6 +24,8 @@ Quantization reduces the compute and ram needs for large models. Model weights a
 Resources
 - https://blog.paperspace.com/llm-revolution/
 - https://www.hardware-corner.net/guides/computer-to-run-llama-ai-model/
+- https://huggingface.co/blog/hf-bitsandbytes-integration
+- https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
 # Image Creation
 - https://www.bing.com/images/create/
@@ -34,6 +36,9 @@ Resources
 ## Qwen
 - https://qwenlm.github.io/blog/qwen1.5/
 - very understandable with qwen1.5-72b-chat
+
+## Claude 3
+- https://www.anthropic.com/news/claude-3-family
 # Running AI models
 ## On macbook
 - https://devcodef1.com/news/1079753/run-llms-models-on-macbook-air-m1
