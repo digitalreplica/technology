@@ -1,5 +1,8 @@
 ---
-is: "[[software]]"
+is:
+  - "[[software]]"
+urls:
+  - https://code.visualstudio.com/
 ---
 # About
 - programming IDE
