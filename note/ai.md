@@ -62,6 +62,7 @@ Resources
 	- Does a "battle" using a single prompt for two ai models, vote for the better answer
 
 # Prompt engineering
+- https://docs.aws.amazon.com/bedrock/latest/userguide/introduction.html
 - https://platform.openai.com/docs/guides/prompt-engineering
 
 # Fine tuning
