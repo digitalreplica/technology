@@ -23,3 +23,10 @@ Edit a line in all files
 
 Replace `\n` with newline
 - Search for `\n`, replace with <crtl><enter>
+
+Setting environment variables
+- https://code.visualstudio.com/docs/python/environments#_environment-variables
+- make a file ending in `.env`, like `sandbox.env`
+```
+MY_VAR=foo
+```
