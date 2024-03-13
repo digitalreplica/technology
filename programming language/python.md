@@ -110,6 +110,9 @@ Saving CSV
 ```
 df.to_csv('file1.csv', index=False)
 ```
+## Streamlit
+- UI apps in python
+- https://docs.streamlit.io/
 
 # Command Line Stuff
 ## Virtual Environments
