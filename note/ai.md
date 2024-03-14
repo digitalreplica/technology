@@ -39,6 +39,13 @@ Resources
 
 ## Claude 3
 - https://www.anthropic.com/news/claude-3-family
+- For Anthropic Claude models, prompts sent via the API must contain `\n\nHuman:` and `\n\nAssistant:`
+## Amazon Titan
+- https://aws.amazon.com/bedrock/titan/
+- Can use with or without chat format
+- Doesn't have a system prompt, but any text at the beginning of a chat is used as context to generate text or answers.
+- When using the API, conversation state is not saved. The full context must be sent on each API request.
+- To use conversational mode on Titan, you can use the format of `User: {{}} \n Bot:` when prompting the model.
 # Running AI models
 ## On macbook
 - https://devcodef1.com/news/1079753/run-llms-models-on-macbook-air-m1
