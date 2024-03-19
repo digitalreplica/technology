@@ -12,6 +12,8 @@ line two
 ```
 ## Files
 Read file
+## Walrus operator :=
+The `:=` (walrus) operator lets you assign and use a variable in the same line
 
 # Standard libraries
 ## os
