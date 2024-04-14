@@ -23,3 +23,6 @@ urls: https://1password.com/personal
 	  - Run your command using op run
 		  - Example: `op run --env-file="./prod.env" -- aws`
 	- Set the environment safe
+## SSH Keys
+- 1Password registers itself as an SSH Agent (at least on mac) - https://developer.1password.com/docs/ssh/agent/
+- SSH keys will automatically be offered when connecting via ssh, and will prompt for Touch ID
