@@ -123,8 +123,8 @@ python3 -m venv /path/to/new/virtual/environment
 ```
 or most commonly
 ```
-python3 -m venv venv3
-source venv3/bin/activate
+python3 -m venv .venv3
+source .venv3/bin/activate
 python --version
 ```
 

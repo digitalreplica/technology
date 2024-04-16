@@ -39,10 +39,12 @@ Resources
 ## Qwen
 - https://qwenlm.github.io/blog/qwen1.5/
 - very understandable with qwen1.5-72b-chat
-
 ## Claude 3
 - https://www.anthropic.com/news/claude-3-family
+- Preferred AI model
 - For Anthropic Claude models, prompts sent via the API must contain `\n\nHuman:` and `\n\nAssistant:`
+- https://docs.anthropic.com/claude/reference/getting-started-with-the-api
+- https://docs.anthropic.com/claude/docs/long-context-window-tips - good advice on incorporating [[Retrieval Augmented Generation (RAG)|RAG]] information
 ## Amazon Titan
 - https://aws.amazon.com/bedrock/titan/
 - Can use with or without chat format
@@ -74,6 +76,7 @@ Resources
 # Prompt engineering
 - https://docs.aws.amazon.com/bedrock/latest/userguide/introduction.html
 - https://platform.openai.com/docs/guides/prompt-engineering
+- https://www.promptingguide.ai/ - seems to be in-depth guide to ai prompts
 
 # Fine tuning
 Retraining a LLM with a smaller, domain-specific set of knowledge
