@@ -76,6 +76,13 @@ df.loc[df['Quantity'] == 0, 'Quantity'] = df['Current Value']
 
 Merging dataframes
 * [Joining DataFrames in Pandas | DataCamp](https://www.datacamp.com/community/tutorials/joining-dataframes-pandas)
+```
+# Concatenate non-duplicates
+dfA = pd.concat([
+	dfA,
+	dfB[dfB['id'].isin(dfA['id']) == False], # <-- get all the data in dfB that doesn't show up in dfA (based on values in column 'id')
+])
+```
 
 Dictionary or list of dicts to dataframe
 ```
@@ -86,6 +93,11 @@ df = pd.DataFrame.from_dict(mydata)
 Removing `$` from numbers
 ```
 df['Sales'] = df['Sales'].str.replace('$', '')
+```
+
+Sorting by column
+```
+df.sort_values(by=['col1'])
 ```
 
 Renaming columns
