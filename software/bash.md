@@ -23,6 +23,11 @@ export DATE=`date +"%Y%m%d"`
 export DATE=`date +"+%Y%m%d%H%M%S"`
 ```
 
+Date and time in ISO format. The iso-8601 option is better, but use the second example if not supported
+```
+date --iso-8601=seconds
+date +%Y-%m-%dT%H:%M:%S%z
+```
 ## Functions
 How to create a bash function
 * [Functions - Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/bash-functions.php)

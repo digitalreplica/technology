@@ -83,6 +83,13 @@ key4:
 - six
 ```
 
+Links to local files or folders
+- use markdown links with `file://`. If spaces in name, convert to `%20` or enclose the file link in `<>`
+```
+[BehmorCoffeeRoastLog.ods](file://Users/dannyrappleyea/Documents/Danny/Interests/Coffee/BehmorCoffeeRoastLog.ods)
+[BehmorCoffeeRoastLog.ods](<file://Users/dannyrappleyea/Documents/Danny/Interests/Coffee/BehmorCoffeeRoastLog.ods>)
+```
+
 **Creating a Github repo list using the github cli**
 ```
 # Repos
