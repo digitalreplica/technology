@@ -4,7 +4,7 @@ is: "[[hardware]]"
 # Notes
 * Moving icons: hold button on icon to rearrange
 * Home button: In Settings, Remotes, can change to Home Screen instead of Apple TV
-
+- Killing apps: double-tap home button, swipe up on app
 ## Research
 * Disable photos
 
