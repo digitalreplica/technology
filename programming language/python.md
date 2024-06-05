@@ -145,9 +145,17 @@ python --version
 ```python3 -m http.server 8000```
 
 ## Pip
-### Updating
+Updating
 ```
 pip install --upgrade pip
 ```
 
-### Updating packages
+Saving packages to requirements.txt
+```
+pip freeze > requirements.txt
+```
+
+List outdate modules
+```
+pip list --outdated
+```
