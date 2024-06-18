@@ -1,5 +1,5 @@
 ---
-is: "[[note]]"
+is_a: "[[note]]"
 urls: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 in: "[[aws tech notes]]"
 Aliases: Instance Metadata Service

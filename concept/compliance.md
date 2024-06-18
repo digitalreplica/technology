@@ -1,5 +1,5 @@
 ---
-is: "[[concept]]"
+is_a: "[[concept]]"
 of: "[[technology]]"
 of: "[[security]]"
 urls: https://en.wikipedia.org/wiki/Regulatory_compliance

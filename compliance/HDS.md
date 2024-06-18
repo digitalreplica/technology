@@ -1,5 +1,5 @@
 ---
-is: "[[compliance]]"
+is_a: "[[compliance]]"
 aliases: Health Data Hosting
 aliases: Hébergeurs de Données de Santé
 ---

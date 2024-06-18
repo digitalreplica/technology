@@ -1,5 +1,5 @@
 ---
-is: "[[hardware]]"
+is_a: "[[hardware]]"
 ---
 # Notes
 * Moving icons: hold button on icon to rearrange

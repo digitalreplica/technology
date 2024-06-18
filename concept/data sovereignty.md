@@ -1,5 +1,5 @@
 ---
-is: "[[concept]]"
+is_a: "[[concept]]"
 of: "[[security]]"
 urls: https://en.wikipedia.org/wiki/Data_sovereignty
 ---

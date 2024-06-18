@@ -1,5 +1,5 @@
 ---
-is: "[[howto]]"
+is_a: "[[howto]]"
 of: "[[cli]]"
 of: "[[digitalreplica/technology/software/bash]]"
 ---

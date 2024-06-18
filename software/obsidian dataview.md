@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[software]]"
 ---
 
@@ -17,7 +17,7 @@ YAML objects aren't really objects. With some frontmatter like
 ---
 object:
 	name: foo
-is: "[[software]]"
+is_a: "[[software]]"
 of: "[[obsidian]]"
 ---
 ```

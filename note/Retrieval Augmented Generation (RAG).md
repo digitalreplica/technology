@@ -4,7 +4,7 @@ aliases:
   - Retrieval-Augmented Generation
   - RAG
 id: 
-is:
+is_a:
   - "[[note]]"
 is_part_of: "[[ai]]"
 ---

@@ -1,5 +1,5 @@
 ---
-is: "[[hardware]]"
+is_a: "[[hardware]]"
 ---
 # Notes
 ## Transferring data between phones

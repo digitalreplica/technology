@@ -1,5 +1,5 @@
 ---
-is: "[[hardware]]"
+is_a: "[[hardware]]"
 urls: https://en.wikipedia.org/wiki/Solid-state_drive
 ---
 # Notes

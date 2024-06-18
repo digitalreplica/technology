@@ -1,5 +1,5 @@
 ---
-is: "[[software]]"
+is_a: "[[software]]"
 urls: https://1password.com/personal
 ---
 # Notes

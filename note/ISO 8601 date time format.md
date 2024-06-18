@@ -1,5 +1,5 @@
 ---
-is: "[[note]]"
+is_a: "[[note]]"
 urls: https://en.wikipedia.org/wiki/ISO_8601
 ---
 # Notes

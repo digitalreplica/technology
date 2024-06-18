@@ -1,5 +1,5 @@
 ---
-is: "[[software]]"
+is_a: "[[software]]"
 of: "[[apple]]"
 urls: https://www.apple.com/home-app/
 aliases: apple home

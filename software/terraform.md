@@ -1,5 +1,5 @@
 ---
-is: "[[software]]"
+is_a: "[[software]]"
 of: "[[technology]]"
 urls: https://www.terraform.io/
 ---

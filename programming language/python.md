@@ -1,5 +1,5 @@
 ---
-is: "[[programming language]]"
+is_a: "[[programming language]]"
 ---
 # Notes
 - Python programming languages

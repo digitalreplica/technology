@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[software]]"
 ---
 
@@ -49,7 +49,7 @@ BC-tag-note-field: down
 Function | Hotkey | Notes
 --- | --- | ---
 Insert Template | apple-T
-is: "[[software]]"
+is_a: "[[software]]"
 Insert current date | apple-shift-8 | Mimic Bear notes
 
 ## Ideas

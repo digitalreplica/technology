@@ -1,5 +1,5 @@
 ---
-is: "[[software]]"
+is_a: "[[software]]"
 of: "[[macos]]"
 ---
 # Notes

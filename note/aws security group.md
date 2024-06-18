@@ -3,7 +3,7 @@ aliases:
   - aws security groups
   - SGs
 id: 
-is:
+is_a:
   - "[[note]]"
 of:
   - "[[personal/technology/note/aws|aws]]"

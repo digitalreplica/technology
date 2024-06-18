@@ -1,5 +1,5 @@
 ---
-is: "[[software]]"
+is_a: "[[software]]"
 ---
 # Notes
 Angular is a front-end, web UI framework written in Javascript. It originally started as angular.js, but the current version is just called Angular.

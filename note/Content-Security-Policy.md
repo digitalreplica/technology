@@ -1,5 +1,5 @@
 ---
-is: "[[note]]"
+is_a: "[[note]]"
 aliases:
   - CSP header
   - Content-Security-Policy

@@ -1,5 +1,5 @@
 ---
-is:
+is_a:
   - "[[software]]"
 urls:
   - https://code.visualstudio.com/

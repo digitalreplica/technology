@@ -1,5 +1,5 @@
 ---
-is: "[[note]]"
+is_a: "[[note]]"
 of: "[[web server]]"
 urls: https://www.rfc-editor.org/rfc/
 aliases: rfc8615

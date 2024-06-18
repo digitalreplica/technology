@@ -1,5 +1,5 @@
 ---
-is: "[[software]]"
+is_a: "[[software]]"
 urls: https://www.unrealengine.com/en-US/
 ---
 # Notes
