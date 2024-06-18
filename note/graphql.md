@@ -1,6 +1,6 @@
 ---
 is_a: "[[note]]"
-of: "[[technology]]"
+topics: "[[technology]]"
 ---
 # Notes
 GraphQL is an API query language that allows the user to define the shape of the data returned.

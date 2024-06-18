@@ -1,6 +1,6 @@
 ---
 is_a: "[[note]]"
-of: 
+topics: 
 in: 
 ---
 # Notes

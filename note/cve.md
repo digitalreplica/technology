@@ -1,6 +1,6 @@
 ---
 is_a: "[[note]]"
-of: 
+topics: 
 urls:
 ---
 - https://en.wikipedia.org/wiki/Common_Vulnerabilities_and_Exposures

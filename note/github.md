@@ -1,6 +1,6 @@
 ---
 is_a: "[[note]]"
-of: "[[technology]]"
+topics: "[[technology]]"
 ---
 # Notes
 GitHub is an online [[git]] service provide

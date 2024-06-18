@@ -1,6 +1,6 @@
 ---
 is_a: "[[software]]"
-of: "[[technology]]"
+topics: "[[technology]]"
 urls: https://www.terraform.io/
 ---
 # Notes

@@ -1,6 +1,6 @@
 ---
 is_a: "[[service]]"
-of: "[[technology]]"
+topics: "[[technology]]"
 ---
 # Notes
 Peer-to-peer payment app

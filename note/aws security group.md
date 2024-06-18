@@ -5,7 +5,7 @@ aliases:
 id: 
 is_a:
   - "[[note]]"
-of:
+topics:
   - "[[personal/technology/note/aws|aws]]"
 ---
 # Notes

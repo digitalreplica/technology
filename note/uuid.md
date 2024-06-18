@@ -1,6 +1,6 @@
 ---
 is_a: "[[note]]"
-of: "[[technology]]"
+topics: "[[technology]]"
 ---
 # Notes
 UUID are randomly generated IDs that **should** be unique.

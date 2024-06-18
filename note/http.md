@@ -1,6 +1,6 @@
 ---
 is_a: "[[note]]"
-of: "[[technology]]"
+topics: "[[technology]]"
 ---
 # Notes
 HTTP is the protocol underlying web pages

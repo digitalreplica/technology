@@ -1,6 +1,6 @@
 ---
 is_a: "[[note]]"
-of: "[[technology]]"
+topics: "[[technology]]"
 ---
 # Notes
 Unicode is a standard for digitally encoding human text.

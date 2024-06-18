@@ -18,7 +18,7 @@ YAML objects aren't really objects. With some frontmatter like
 object:
 	name: foo
 is_a: "[[software]]"
-of: "[[obsidian]]"
+topics: "[[obsidian]]"
 ---
 ```
 

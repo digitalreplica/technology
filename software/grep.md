@@ -1,6 +1,6 @@
 ---
 is_a: "[[software]]"
-of: "[[linux]]"
+topics: "[[linux]]"
 ---
 # Notes
 Without filename
@@ -16,3 +16,8 @@ grep -l
 
 Lines that start with a number
 `grep -h '^[0-9]' *`
+
+regex grep
+```
+grep -E
+```

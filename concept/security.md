@@ -1,5 +1,5 @@
 ---
 is_a: "[[concept]]"
-of: "[[technology]]"
+topics: "[[technology]]"
 urls: https://en.wikipedia.org/wiki/Computer_security
 ---

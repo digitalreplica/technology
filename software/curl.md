@@ -1,6 +1,6 @@
 ---
 is_a: "[[software]]"
-of: "[[linux]]"
+topics: "[[linux]]"
 ---
 # Notes
 Curl is a linux command to interact with web servers

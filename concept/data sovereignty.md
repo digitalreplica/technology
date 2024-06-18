@@ -1,6 +1,6 @@
 ---
 is_a: "[[concept]]"
-of: "[[security]]"
+topics: "[[security]]"
 urls: https://en.wikipedia.org/wiki/Data_sovereignty
 ---
 # Notes

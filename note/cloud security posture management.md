@@ -1,7 +1,7 @@
 ---
 is_a: "[[note]]"
-of: "[[technology]]"
-of: https://www.cloudflare.com/learning/cloud/what-is-cspm/
+topics: "[[technology]]"
+urls: https://www.cloudflare.com/learning/cloud/what-is-cspm/
 aliases: CSPM
 ---
 # Notes

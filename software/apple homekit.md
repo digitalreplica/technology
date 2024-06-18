@@ -1,6 +1,6 @@
 ---
 is_a: "[[software]]"
-of: "[[apple]]"
+topics: "[[apple]]"
 urls: https://www.apple.com/home-app/
 aliases: apple home
 ---

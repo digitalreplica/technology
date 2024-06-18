@@ -1,6 +1,6 @@
 ---
 is_a: "[[software]]"
-of: "[[linux]]"
+topics: "[[linux]]"
 ---
 # Notes
 Zsh

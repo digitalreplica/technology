@@ -1,6 +1,6 @@
 ---
 is_a: "[[operating system]]"
-of: "[[linux]]"
+topics: "[[linux]]"
 urls: https://en.wikipedia.org/wiki/OpenWrt
 ---
 # Notes

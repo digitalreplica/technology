@@ -1,6 +1,6 @@
 ---
 is_a: "[[note]]"
-of: "[[web server]]"
+topics: "[[web server]]"
 urls: https://www.rfc-editor.org/rfc/
 aliases: rfc8615
 aliases: Well-Known Uniform Resource Identifiers

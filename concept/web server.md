@@ -1,5 +1,5 @@
 ---
 is_a: "[[concept]]"
-of: 
+topics: 
 urls: https://en.wikipedia.org/wiki/Web_server
 ---

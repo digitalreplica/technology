@@ -1,6 +1,6 @@
 ---
 is_a: "[[note]]"
-of: "[[security]]"
+topics: "[[security]]"
 ---
 # Notes
 - Adding the `sandbox` restricts pretty much all scripts and browser behavior of any kind.

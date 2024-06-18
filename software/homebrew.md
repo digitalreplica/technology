@@ -1,6 +1,6 @@
 ---
 is_a: "[[software]]"
-of: "[[macos]]"
+topics: "[[macos]]"
 ---
 # Notes
 Homebrew is a package manager for Mac OS

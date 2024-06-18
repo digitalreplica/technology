@@ -1,7 +1,7 @@
 ---
 is_a: "[[note]]"
-of: "[[technology]]"
-of: "[[security]]"
+topics: "[[technology]]"
+topics: "[[security]]"
 in: 
 ---
 # Notes

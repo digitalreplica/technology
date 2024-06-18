@@ -1,7 +1,6 @@
 ---
 is_a: "[[concept]]"
-of: 
-of: https://en.wikipedia.org/wiki/Cellular_network
+urls: https://en.wikipedia.org/wiki/Cellular_network
 aliases: cellular plan
 aliases: cell phone
 aliases: mobile service
