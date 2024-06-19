@@ -14,12 +14,12 @@ File query language plugin for [[obsidian]].
 # Notes
 YAML objects aren't really objects. With some frontmatter like
 ```
----
-object:
-	name: foo
-is_a: "[[software]]"
-topics: "[[obsidian]]"
----
+  ---
+  object:
+    name: foo
+  is_a: "[[software]]"
+  topics: "[[obsidian]]"
+  ---
 ```
 
 You can't query for `object.name`, only `name`. This will pull `name` from `object` , but also a plain name field, or one in a different object

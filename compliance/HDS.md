@@ -1,7 +1,8 @@
 ---
 is_a: "[[compliance]]"
-aliases: Health Data Hosting
-aliases: Hébergeurs de Données de Santé
+aliases:
+  - Health Data Hosting
+  - Hébergeurs de Données de Santé
 ---
 # Notes
 - certification required by the French government to host health data

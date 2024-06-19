@@ -1,7 +1,8 @@
 ---
 is_a: "[[service]]"
-topics: "[[technology]]"
-topics: "[[security]]"
+topics:
+  - "[[technology]]"
+  - "[[security]]"
 ---
 # Notes
 - SSO provider

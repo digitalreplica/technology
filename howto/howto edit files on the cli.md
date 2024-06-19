@@ -1,7 +1,8 @@
 ---
 is_a: "[[howto]]"
-topics: "[[cli]]"
-topics: "[[digitalreplica/technology/software/bash]]"
+topics:
+  - "[[cli]]"
+  - "[[digitalreplica/technology/software/bash]]"
 ---
 # Notes
 

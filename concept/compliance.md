@@ -1,7 +1,8 @@
 ---
 is_a: "[[concept]]"
-topics: "[[technology]]"
-topics: "[[security]]"
+topics:
+  - "[[technology]]"
+  - "[[security]]"
 urls: https://en.wikipedia.org/wiki/Regulatory_compliance
 ---
 # Notes
