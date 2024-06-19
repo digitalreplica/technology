@@ -1,12 +1,14 @@
 ---
-is_a: "[[note]]"
+is_a:
+  - "[[note]]"
 aliases:
   - CSP header
   - Content-Security-Policy
 topics:
-  - "[[http]]"
+  - "[[web]]"
   - "[[security]]"
-urls: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy
+urls:
+  - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy
 ---
 # Notes
 - The more modern http header to control many browser security settings for given website or domain
