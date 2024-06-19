@@ -6,7 +6,7 @@ id:
 is_a:
   - "[[note]]"
 topics:
-  - "[[personal/technology/note/aws|aws]]"
+  - "[[aws]]"
 ---
 # Notes
 Restricting outbound access
