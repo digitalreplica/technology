@@ -15,3 +15,7 @@ Location: <url>
 application/javascript
 application/json
 text/html
+
+HTTP Servers
+- [[python]] has a built module
+- [[ngrok]] is an easy way to make it public with a certificate
