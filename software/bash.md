@@ -45,11 +45,21 @@ line 2
 Bash does have primitive dictionary (key/value) variables in v4.0 or higher.
 * [dictionaries in bash | bitarray - A guide for SRE, DevOps and Webmasters](https://www.bitarray.io/dictionaries-in-bash/)
 
-## Finding new files
+## Find commands
+New files
 ```
 find . -type f -newermt "2021-11-01"
 ```
 
+Symlinks
+```
+find . -type l
+```
+
+Find folders that have a `.git` folder
+```
+`find . -type d -name ".git"`
+```
 # Bash script snippets
 
 Is file a directory
