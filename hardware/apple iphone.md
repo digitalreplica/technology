@@ -1,5 +1,8 @@
 ---
-is_a: "[[hardware]]"
+is_a:
+  - "[[hardware]]"
+topics:
+  - "[[apple]]"
 ---
 # Notes
 ## Transferring data between phones

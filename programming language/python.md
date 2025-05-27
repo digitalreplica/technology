@@ -159,3 +159,9 @@ List outdate modules
 ```
 pip list --outdated
 ```
+
+## Arm
+Showing architecture
+```
+python -c "import platform; print(platform.processor())"
+```

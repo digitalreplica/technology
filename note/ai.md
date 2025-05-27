@@ -39,27 +39,14 @@ Resources
 # LLMs
 - https://www.datacamp.com/blog/top-open-source-llms
 	- nlp cloud looks interesting
-## Qwen
-- https://qwenlm.github.io/blog/qwen1.5/
-- very understandable with qwen1.5-72b-chat
-## Claude 3
-- https://www.anthropic.com/news/claude-3-family
-- Preferred AI model
-- For Anthropic Claude models, prompts sent via the API must contain `\n\nHuman:` and `\n\nAssistant:`
-- https://docs.anthropic.com/claude/reference/getting-started-with-the-api
-- https://docs.anthropic.com/claude/docs/long-context-window-tips - good advice on incorporating [[Retrieval Augmented Generation (RAG)|RAG]] information
-## Amazon Titan
-- https://aws.amazon.com/bedrock/titan/
-- Can use with or without chat format
-- Doesn't have a system prompt, but any text at the beginning of a chat is used as context to generate text or answers.
-- When using the API, conversation state is not saved. The full context must be sent on each API request.
-- To use conversational mode on Titan, you can use the format of `User: {{}} \n Bot:` when prompting the model.
+
 # Running AI models
 ## On macbook
-- https://devcodef1.com/news/1079753/run-llms-models-on-macbook-air-m1
-	- using M1 macbook
-- https://github.com/ggerganov/llama.cpp
-	- using https://huggingface.co/TheBloke/Llama-2-7B-GGUF/blob/main/llama-2-7b.Q4_K_M.gguf
+- Software
+	- [[llama.cpp]]
+	- [[ollama]]
+	- [[mlx-lm]]
+	- vllm - experimental support for Apple silicon
 ## On cloud services
 ### Open AI
 - https://platform.openai.com
@@ -73,7 +60,7 @@ Resources
 - https://www.copy.ai/tools
 	- marketing focused ai
 	- can do blog posts and product descriptions
-- https://chat.lmsys.org/
+- https://chat.lmsys.org/ is now https://lmarena.ai/
 	- Does a "battle" using a single prompt for two ai models, vote for the better answer
 
 # Prompt engineering
@@ -88,4 +75,17 @@ Resources
 - https://www.datacamp.com/tutorial/fine-tuning-large-language-models - some python examples for transformers
 - https://www.datacamp.com/tutorial/fine-tuning-llama-2 - another good example with code
 - https://huggingface.co/blog/falcon - using and finetuning falcon dataset
-- 
+
+# History
+Matchbox Educable Noughts and Crosses Engine
+- https://en.wikipedia.org/wiki/Matchbox_Educable_Noughts_and_Crosses_Engine
+- https://chalkdustmagazine.com/features/menace-machine-educable-noughts-crosses-engine/ - decent description of algorithm
+- https://www.mscroggs.co.uk/menace/ - online simulator
+
+# To Research
+- https://www.reddit.com/r/LocalLLaMA/comments/1k54foj/let_us_build_deepseek_from_scratch_no_fluff_13/
+
+# Prompts to test new models
+> Can you summarize the current state of AI large language models, with a focus on the differences between cloud-based and local processing capabilities?
+
+> Can you briefly describe the OpenAI chat completions response format?

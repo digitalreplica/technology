@@ -1,6 +1,10 @@
 ---
-is_a: "[[operating system]]"
-urls: https://en.wikipedia.org/wiki/MacOS
+is_a:
+  - "[[operating system]]"
+urls:
+  - https://en.wikipedia.org/wiki/MacOS
+topics:
+  - "[[apple]]"
 ---
 # Notes
 Mac OS Notes
@@ -99,7 +103,7 @@ openssl sha1
 
 ## Preferences
 
-* General: Dark mode, Disable Handoff
+* General: Dark mode, Disable Handoff 
 * Dock: Left, smaller
 * Security: Require password immediately, FileVault on, Firewall on, block all services
 * Keyboard, Touch Bar screen lock instead of Siri, dictation on, enchanced
@@ -107,10 +111,12 @@ openssl sha1
 * Accessibility: Speech Ava, speak selected text on
 
 ## Screenshot location
-
+```
 mkdir ~/Screenshots
 defaults write com.apple.screencapture location ~/Screenshots
 killall SystemUIServer
+```
+
 
 ## Zsh profile
 cat >~/.zshrc
@@ -158,3 +164,8 @@ Safe mode: Power on and immediately hold <shift>
 
 Links
 * [If your Mac doesn’t start up all the way - Apple Support](https://support.apple.com/en-us/HT204156)
+
+# Transfer files between computers
+- https://support.apple.com/guide/mac-help/transfer-files-mac-computers-target-disk-mode-mchlp1443/mac
+	- Start up target computer and hold down `T` to put into disk target mode
+	- Plug into other computer, enter password if needed

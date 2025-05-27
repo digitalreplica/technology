@@ -7,6 +7,7 @@ Homebrew is a package manager for Mac OS
 - Website: https://brew.sh/
 - Docs: https://docs.brew.sh/
 
+Be careful to install arm packages for mac
 ## Howto
 ### Update
 ```
@@ -33,4 +34,10 @@ Note: switch now deprecated
 ```
 brew install nmap@7.8
 brew switch nmap 7.8
+```
+
+## Installing specific version of python
+```
+brew install python@3.11
+python3.11 --version
 ```
