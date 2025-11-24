@@ -1,5 +1,5 @@
 ---
-is_a: "[[concept]]"
+is-a: "[[concept]]"
 urls: https://en.wikipedia.org/wiki/Cellular_network
 aliases:
   - cellular plan

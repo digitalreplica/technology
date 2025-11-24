@@ -1,5 +1,5 @@
 ---
-is_a: "[[hardware]]"
+is-a: "[[hardware]]"
 ---
 # Notes
 Business-focused routers, switches, and wireless devices

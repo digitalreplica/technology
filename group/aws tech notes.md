@@ -1,6 +1,6 @@
 ---
-is_a: "[[group]]"
-in: 
+is-a: "[[group]]"
+in:
 ---
 # About
 AWS Technology notes

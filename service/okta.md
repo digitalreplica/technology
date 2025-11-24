@@ -1,6 +1,5 @@
 ---
-is_a: "[[service]]"
-topics:
+is-a: "[[service]]"
   - "[[technology]]"
   - "[[security]]"
 ---

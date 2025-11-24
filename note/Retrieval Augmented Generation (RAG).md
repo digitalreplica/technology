@@ -3,8 +3,8 @@ aliases:
   - Retrieval Augmented Generation
   - Retrieval-Augmented Generation
   - RAG
-id: 
-is_a:
+id:
+is-a:
   - "[[note]]"
 is_part_of: "[[ai]]"
 ---

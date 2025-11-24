@@ -1,5 +1,5 @@
 ---
-is_a: "[[note]]"
+is-a: "[[note]]"
 topics: "[[web server]]"
 urls: https://www.rfc-editor.org/rfc/
 aliases:

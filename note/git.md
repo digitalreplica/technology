@@ -1,7 +1,7 @@
 ---
-is_a: "[[note]]"
+is-a: "[[note]]"
 topics: "[[technology]]"
-near: "[[github]]"
+near: "[[dannyrappleyea/technology/note/github]]"
 ---
 # Notes
 Git cli notes.

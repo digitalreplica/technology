@@ -1,5 +1,5 @@
 ---
-is_a: "[[software]]"
+is-a: "[[software]]"
 topics: "[[linux]]"
 ---
 # Notes

@@ -1,5 +1,5 @@
 ---
-is_a: "[[note]]"
+is-a: "[[note]]"
 ---
 # Notes
 - password notes

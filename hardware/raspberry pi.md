@@ -1,5 +1,5 @@
 ---
-is_a: "[[hardware]]"
+is-a: "[[hardware]]"
 ---
 # Notes
 Raspberry Pi

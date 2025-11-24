@@ -1,5 +1,5 @@
 ---
-is_a: "[[programming language]]"
+is-a: "[[programming language]]"
 ---
 # Notes
 - Python programming languages
@@ -160,6 +160,10 @@ List outdate modules
 pip list --outdated
 ```
 
+Development mode
+```
+pip install -e .
+```
 ## Arm
 Showing architecture
 ```

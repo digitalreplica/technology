@@ -1,5 +1,5 @@
 ---
-is_a: "[[software]]"
+is-a: "[[software]]"
 ---
 # Notes
 Anaconda is a language and package manager

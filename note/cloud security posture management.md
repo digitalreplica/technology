@@ -1,5 +1,5 @@
 ---
-is_a: "[[note]]"
+is-a: "[[note]]"
 topics: "[[technology]]"
 urls: https://www.cloudflare.com/learning/cloud/what-is-cspm/
 aliases: CSPM

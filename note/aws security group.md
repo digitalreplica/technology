@@ -2,10 +2,9 @@
 aliases:
   - aws security groups
   - SGs
-id: 
-is_a:
+id:
+is-a:
   - "[[note]]"
-topics:
   - "[[aws]]"
 ---
 # Notes

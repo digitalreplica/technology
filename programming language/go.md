@@ -1,5 +1,5 @@
 ---
-is_a: "[[programming language]]"
+is-a: "[[programming language]]"
 ---
 # Notes
 Go programming language

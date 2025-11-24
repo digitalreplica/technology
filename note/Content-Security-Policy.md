@@ -1,10 +1,9 @@
 ---
-is_a:
+is-a:
   - "[[note]]"
 aliases:
   - CSP header
   - Content-Security-Policy
-topics:
   - "[[web]]"
   - "[[security]]"
 urls:

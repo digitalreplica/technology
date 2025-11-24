@@ -1,5 +1,5 @@
 ---
-is_a: "[[software]]"
+is-a: "[[software]]"
 ---
 # Notes
 Docker is a virtualization technology for application containers

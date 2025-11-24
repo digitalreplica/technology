@@ -1,5 +1,5 @@
 ---
-is_a: "[[software]]"
+is-a: "[[software]]"
 urls: https://atom.io/
 ---
 # Notes

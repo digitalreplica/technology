@@ -1,7 +1,6 @@
 ---
-is_a:
+is-a:
   - "[[product]]"
-topics:
   - "[[ai]]"
 ---
 # Notes

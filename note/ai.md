@@ -1,7 +1,6 @@
 ---
-is_a:
+is-a:
   - "[[note]]"
-topics:
   - "[[technology]]"
 aliases:
   - ai
@@ -10,7 +9,7 @@ aliases:
   - llm
   - large language model
 ---
-# Notes
+l# Notes
 - Recent development in large language models and generative ai have sparked a new era in AI. Tech-focused companies are going nuts adding it to their products
 - Much of AI is based on large predictive models based on "weights", or the probabilities of something happening. In language models, this might be probabilities of which words might follow a given word or set of words. Generally, more parameters or weights in a model increases the complexity of the knowledge it might have. The most complex language models today can exceed 100 billion parameters.
 - Large AI models uses a massive amount of computing, typically GPUs. A high-end gaming system graphics card can struggle to run the larger ones. Server-grade GPUs are becoming more common with large amounts of ram.
@@ -26,6 +25,7 @@ aliases:
 	- temperature skews probabilities, closer to 0 less creative, closer to 1 more creative
 ## Quantization
 Quantization reduces the compute and ram needs for large models. Model weights are typically 32-bit or 64-bit floating point numbers, requiring enormous amounts of ram. Quantization reduces the weights to smaller integers, with 4-bits and 8-bits as a sweet spot to balance accuracy with resource constraints on more limited devices. A large quantized model still performs better than a smaller model of the same size.
+
 
 Resources
 - https://blog.paperspace.com/llm-revolution/

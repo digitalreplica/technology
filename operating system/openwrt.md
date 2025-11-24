@@ -1,5 +1,5 @@
 ---
-is_a: "[[operating system]]"
+is-a: "[[operating system]]"
 topics: "[[linux]]"
 urls: https://en.wikipedia.org/wiki/OpenWrt
 ---

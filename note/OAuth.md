@@ -1,7 +1,6 @@
 ---
-is_a: "[[note]]"
-topics: 
-in: 
+is-a: "[[note]]"
+in:
 ---
 # Notes
 - https://oauth.net/2/

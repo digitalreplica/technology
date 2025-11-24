@@ -1,7 +1,6 @@
 ---
-is_a:
+is-a:
   - "[[howto]]"
-topics:
   - "[[cli]]"
 ---
 # Notes

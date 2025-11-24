@@ -1,10 +1,9 @@
 ---
-is_a:
+is-a:
   - "[[operating system]]"
 urls:
   - https://en.wikipedia.org/wiki/MacOS
-topics:
-  - "[[apple]]"
+  - "[[Apple]]"
 ---
 # Notes
 Mac OS Notes

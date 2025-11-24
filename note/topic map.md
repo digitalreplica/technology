@@ -1,7 +1,7 @@
 ---
-aliases: 
-id: 
-is_a:
+aliases:
+id:
+is-a:
   - "[[note]]"
 urls:
 ---

@@ -1,5 +1,5 @@
 ---
-is_a: "[[note]]"
+is-a: "[[note]]"
 ---
 # Notes
 - config file in `~/.ssh/config`

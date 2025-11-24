@@ -1,9 +1,8 @@
 ---
-is_a: "[[note]]"
-topics:
+is-a: "[[note]]"
   - "[[technology]]"
   - "[[security]]"
-in: 
+in:
 ---
 # Notes
 - https://www.ivpn.net/

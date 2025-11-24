@@ -1,5 +1,5 @@
 ---
-is_a:
+is-a:
   - "[[compliance]]"
 ---
 # Notes
